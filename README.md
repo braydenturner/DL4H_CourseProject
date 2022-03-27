@@ -1,1 +1,1 @@
-# Deep learnig for Healthcare Course Project
+# Deep Learning for Healthcare Course Project
