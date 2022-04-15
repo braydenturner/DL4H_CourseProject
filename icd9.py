@@ -83,7 +83,7 @@ class ICD9(Node):
     self.depth2nodes = defaultdict(dict)
     super(ICD9, self).__init__(-1, 'ROOT')
 
-    with file(codesfname, 'r') as f:
+    with open(codesfname, 'r') as f:
       allcodes = json.loads(f.read())
       self.process(allcodes)
 
@@ -115,3 +115,5 @@ if __name__ == '__main__':
   counter = Counter(map(str, tree.leaves))
   import pdb
   pdb.set_trace()
+
+
