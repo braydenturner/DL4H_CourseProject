@@ -20,3 +20,7 @@ There are two flags that can be used to control operation of the notebook:
 `use_demo` specifies whether or not the demo data should be used. Use this setting if you do not have the MIMIC-III dataset stored locally
 
 `print_metrics` specifies whether or not metrics should be printed. Metrics include CPU utilization, RAM utilization, and GPU VRAM utilization.
+
+## Results and Presentation
+
+A presentation of our findings is available on [YouTube](<link here>).
