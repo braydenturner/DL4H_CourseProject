@@ -8,4 +8,4 @@ Brayden Turner & Joshua Smith
 
 
 ## Running The Code
-All the code is contained in a Jupyter notebook (Project.ipynb). At the very top is a cell to import some of the mosules we used (Sparsemax, numpy, etc.).
+All the code is contained in a Jupyter notebook (Project.ipynb). At the very top is a cell to import some of the modules we used (Sparsemax, numpy, etc.).
