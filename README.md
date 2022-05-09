@@ -28,4 +28,4 @@ There are two flags that can be used to control operation of the notebook:
 
 ## Results and Presentation
 
-A presentation of our findings is available on [YouTube](https://youtu.be/8teJ8AcxOyM).
+A presentation of our findings is available on [YouTube](https://youtu.be/8teJ8AcxOyM). The final report is in the [repo](https://github.com/braydenturner/DL4H_CourseProject/blob/main/CS598_DL4H_Course_Project.pdf).
