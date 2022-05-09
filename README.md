@@ -11,7 +11,7 @@ Brayden Turner & Joshua Smith
 This paper is a reproduction and analysis of the model presented in the paper [INPREM: An Interpretable and Trustworthy Predictive Model for Healthcare](https://dl.acm.org/doi/10.1145/3394486.3403087) from 2020 by Xianli Zhang, Buyue Qian, Shilei Cao, Yang Li, Hang Chen, Yefeng Zheng, and Ian Davidson.
 
 ## Running The Code
-All the code is contained in a Jupyter notebook (Project.ipynb). At the very top is a cell to import some of the modules we used (Sparsemax, numpy, etc.).
+All the code is contained in a Jupyter notebook [CourseProject.ipynb](https://github.com/braydenturner/DL4H_CourseProject/blob/main/CourseProject.ipynb). At the very top is a cell to import some of the modules we used (Sparsemax, numpy, etc.).
 
 ### Flags 
 
